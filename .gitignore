@@ -1,0 +1,13 @@
+# Ignorar la carpeta de salida generada por el script
+generador/output/
+
+# Ignorar directorios de cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos de entornos virtuales (opcional pero recomendado)
+venv/
+env/
+.venv/
