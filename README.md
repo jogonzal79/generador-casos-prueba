@@ -11,7 +11,7 @@ Este es un script de Python que lee casos de prueba desde un archivo de texto (`
 ## Requisitos
 
 -   Python 3.x
--   Librería `openpyxl`
+-   Librería `openpyxl` : pip install openpyxl
 
 ## Instalación
 
