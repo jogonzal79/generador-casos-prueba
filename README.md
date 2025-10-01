@@ -17,7 +17,7 @@ Este es un script de Python que lee casos de prueba desde un archivo de texto (`
 
 1.  Clona este repositorio:
     ```bash
-    git clone [https://github.com/jogonzal79/generador-casos-prueba.git](https://github.com/jogonzal79/generador-casos-prueba.git)
+    git clone https://github.com/jogonzal79/generador-casos-prueba.git
     ```
 2.  Navega al directorio del proyecto:
     ```bash
