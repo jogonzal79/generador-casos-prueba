@@ -12,6 +12,7 @@ venv/
 env/
 .venv/
 
-*.xlsx
-*.txt
-clear
+/input/**
+/output/**
+!/input/casos_prueba.txt
+!/output/*.xlsx
