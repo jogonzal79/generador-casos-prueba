@@ -12,4 +12,5 @@ venv/
 env/
 .venv/
 
-.*xlsx
+*.xlsx
+*.txt
